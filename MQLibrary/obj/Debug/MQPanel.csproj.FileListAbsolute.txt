@@ -1,9 +1,0 @@
-C:\Users\Anonymous\OneDrive\Desktop\MT5-Tester-Named-Pipes-master\MQLibrary\obj\Debug\MQPanel.csprojAssemblyReference.cache
-C:\Users\Anonymous\OneDrive\Desktop\MT5-Tester-Named-Pipes-master\MQLibrary\obj\Debug\MQPanel.Control.Tester.resources
-C:\Users\Anonymous\OneDrive\Desktop\MT5-Tester-Named-Pipes-master\MQLibrary\obj\Debug\MQPanel.Properties.Resources.resources
-C:\Users\Anonymous\OneDrive\Desktop\MT5-Tester-Named-Pipes-master\MQLibrary\obj\Debug\MQPanel.csproj.GenerateResource.cache
-C:\Users\Anonymous\OneDrive\Desktop\MT5-Tester-Named-Pipes-master\MQLibrary\obj\Debug\MQPanel.csproj.CoreCompileInputs.cache
-C:\Users\Anonymous\OneDrive\Desktop\MT5-Tester-Named-Pipes-master\MQLibrary\bin\Debug\MQLibrary.exe
-C:\Users\Anonymous\OneDrive\Desktop\MT5-Tester-Named-Pipes-master\MQLibrary\bin\Debug\MQLibrary.pdb
-C:\Users\Anonymous\OneDrive\Desktop\MT5-Tester-Named-Pipes-master\MQLibrary\obj\Debug\MQLibrary.exe
-C:\Users\Anonymous\OneDrive\Desktop\MT5-Tester-Named-Pipes-master\MQLibrary\obj\Debug\MQLibrary.pdb
