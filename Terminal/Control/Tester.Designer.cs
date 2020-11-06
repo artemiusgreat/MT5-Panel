@@ -1002,7 +1002,7 @@
             this.Controls.Add(this.PanelMessage);
             this.Controls.Add(this.Tabs);
             this.Name = "Tester";
-            this.Text = "AIV Tester - Arte In Volo - www.arteinvolo.com";
+            this.Text = "AIV Tester - Arte In Volo";
             this.Tabs.ResumeLayout(false);
             this.TabConnection.ResumeLayout(false);
             this.ConnectionGroupDescription.ResumeLayout(false);

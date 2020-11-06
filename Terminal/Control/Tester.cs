@@ -1,23 +1,17 @@
-﻿using System;
+﻿using MQPanel.Helper;
+using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Runtime.InteropServices;
-using System.ServiceModel;
-using System.Diagnostics;
-using MQPanel.Helper;
 
 namespace MQPanel.Control
 {
   public partial class Tester : Form, IDisposable
   {
-    const string MESSAGE_COPY_PROTECTION = "It is forbidden to copy this software and run it on multiple PCs";
-
     private bool _isClean = false;
     private CustomChannel _channel;
     private PriceData _price = new PriceData();
@@ -45,8 +39,6 @@ namespace MQPanel.Control
 
     public Tester()
     {
-      Setup(MESSAGE_COPY_PROTECTION);
-
       InitializeComponent();
 
       var OrderTypes = new Dictionary<ENUM_ORDER_TYPE, string>
