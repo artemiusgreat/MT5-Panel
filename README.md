@@ -5,10 +5,7 @@ Also, this panel can be used as an alternative to the standard one provided with
 
 # Preview
 
-![](Screens/Demo.png)
-![](Screens/Home.png)
-![](Screens/Inputs.png)
-![](Screens/Positions.png)
+![](Screens/Preview.png)
 
 # Links
 
