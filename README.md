@@ -9,6 +9,6 @@ Also, this panel can be used as an alternative to the standard one provided with
 
 # Links
 
-- https://www.youtube.com/watch?v=shHEjUIRyj0
-- https://www.youtube.com/watch?v=Cyyy5sD7jqo
+- Using panel in a [Tester Mode](https://www.youtube.com/watch?v=shHEjUIRyj0)
+- Using panel in a [Real Time](https://www.youtube.com/watch?v=Cyyy5sD7jqo)
 
